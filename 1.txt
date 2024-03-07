@@ -1,0 +1,8 @@
+1 1 False
+2 -2 True
+Cs174
+3 3 False
+1
+4 4 True
+4
+cat dog cat dog cat dog
